@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey, I'm Faizyab 👋
+**Systems Programmer & Security Researcher**  
+Focusing on low-level systems (`Rust`, `C++`), formal verification (`CDCL SAT`), and offensive security / attack-surface reconnaissance.
 
-<!--
-**Not-Faizyab/Not-Faizyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛡️ Security & Research Highlights
+- **Vulnerability Disclosure:** Acknowledged by **NASA VDP** (vulnerability validated & in remediation).
+- **SAT Solver Research:** Authored *"Representation-Induced State Divergence in Deterministic CDCL SAT Solving"* — C++ instrumentation of MiniSat reviewed by **Prof. Armin Biere** and **Dr. Alex Nadel (NVIDIA)**. ([Code & Paper](./CDCL-Trajectory-Sensitivity))
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚙️ Core Systems & Tooling
+- **[Breach](./Breach)** `(Rust)` — Custom interpreted scripting language featuring a hand-rolled lexer/parser, concurrency, and low-level networking primitives.
+- **[CDCL-Trajectory-Sensitivity](./CDCL-Trajectory-Sensitivity)** `(C++)` — Instrumentation harness tracing VSIDS binary heap tie-breaks and conflict divergence across BMC permutations in MiniSat.
+- **[Doomscan](./Doomscan) & [Doomscan-CLI](./Doomscan-CLI)** `(Python / FastAPI)` — Automated domain enumeration and attack-surface mapping engine.
+- **[Rover](./Rover)** `(C++ / ESP32)` — Firmware for an ESP32-CAM 4x4 recon vehicle with pan-tilt laser targeting.
