@@ -35,7 +35,7 @@ Instrumented deterministic MiniSat in C++ to trace how syntactic representation 
 
 ---
 
-### 🧰 Technical Stack & Focus Areas
+### Technical Stack & Focus Areas
 
 * **Languages & Runtimes:** `Rust` · `C++` · `Python` · `JavaScript` · `Bash`
 * **Frameworks & Tooling:** `Burp Suite` · `MiniSat` · `FastAPI` · `React` · `Linux / WSL2`
