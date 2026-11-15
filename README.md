@@ -1,4 +1,4 @@
-# Hey, I'm Faizyab 👋
+# Hey, I'm Faizyab
 
 **Systems Programmer · Security Researcher · Formal Verification**
 
@@ -6,14 +6,14 @@ I engineer low-level systems in **Rust** and **C++**, build offensive reconnaiss
 
 ---
 
-### 🛡️ Security & Research Highlights
+### Security & Research Highlights
 
 * **NASA Vulnerability Disclosure Program (VDP):** Identified and responsibly disclosed a security vulnerability on NASA infrastructure *(validated & currently in engineering remediation)*.
 * **Deterministic CDCL SAT Solver Research:** Authored ***[Representation-Induced State Divergence in Deterministic CDCL SAT Solving](https://github.com/Not-Faizyab/CDCL-Trajectory-Sensitivity)*** — reviewed by **Prof. Dr. Armin Biere** *(Creator of CaDiCaL/Kissat)* and **Dr. Alexander Nadel** *(Principal Research Scientist, NVIDIA)*.
 
 ---
 
-### 🔬 Featured Research: CDCL State Divergence
+### Featured Research: CDCL State Divergence
 
 **[Representation-Induced State Divergence in Deterministic CDCL SAT Solving](https://github.com/Not-Faizyab/CDCL-Trajectory-Sensitivity)** · `C++` · `MiniSat 2.2.0`
 
@@ -23,7 +23,7 @@ Instrumented deterministic MiniSat in C++ to trace how syntactic representation 
 
 ---
 
-### ⚙️ Core Systems & Security Tooling
+### Core Systems & Security Tooling
 
 | Repository | Stack | Architecture & Focus |
 | :--- | :--- | :--- |
