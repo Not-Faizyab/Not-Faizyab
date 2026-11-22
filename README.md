@@ -1,18 +1,18 @@
-### Hey, I'm Faizyab
+# Hey, I'm Faizyab
 **Systems Programmer · Security Researcher · Formal Verification**
 
 I engineer low-level systems in Rust and C++, build offensive reconnaissance tooling, and investigate deterministic solver dynamics and edge-case vulnerabilities in production infrastructure.
 
 ---
 
-### Security & Research Highlights
+## Security & Research Highlights
 * **NASA Vulnerability Disclosure Program (VDP):** Identified and responsibly disclosed a security vulnerability on NASA infrastructure *(validated & in engineering remediation)*.
 * **Deterministic CDCL SAT Solver Research:** Authored *Representation-Induced State Divergence in Deterministic CDCL SAT Solving* — reviewed by **Prof. Dr. Armin Biere** *(Creator of CaDiCaL/Kissat)* and **Dr. Alexander Nadel** *(Principal Research Scientist, NVIDIA)*.
 * **Upstream MaxSAT Solver Engineering:** Authored and merged a C++ clause-threshold optimization (`preprocesslightmaxclauses`) into [Aperture](https://github.com/Not-Faizyab/Aperture), validated across 386 MSE'26 benchmark instances.
 
 ---
 
-### Featured Research: CDCL State Divergence
+## Featured Research: CDCL State Divergence
 **`Representation-Induced State Divergence in Deterministic CDCL SAT Solving` · `C++` · `MiniSat 2.2.0`**
 
 Instrumented deterministic MiniSat in C++ to trace how syntactic representation changes (variable index permutations preserving exact semantic equivalence) alter internal solver trajectories on Bounded Model Checking (BMC) instances:
@@ -21,7 +21,7 @@ Instrumented deterministic MiniSat in C++ to trace how syntactic representation 
 
 ---
 
-### Core Systems & Security Tooling
+## Core Systems & Security Tooling
 
 | Repository | Stack | Architecture & Focus |
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ Instrumented deterministic MiniSat in C++ to trace how syntactic representation 
 
 ---
 
-### Technical Stack & Focus Areas
+## Technical Stack & Focus Areas
 * **Languages & Runtimes:** `Rust` · `C++` · `Python` · `JavaScript` · `Bash`
 * **Frameworks & Tooling:** `Burp Suite` · `CaDiCaL / MiniSat` · `FastAPI` · `React` · `Linux / WSL2`
 * **Core Domains:** Language Runtimes & Parsers · CDCL/MaxSAT Solvers & Formal Methods · Web Application Security · Attack-Surface Recon · Embedded Firmware (ESP32)
